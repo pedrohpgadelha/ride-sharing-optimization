@@ -1,0 +1,944 @@
+{
+  "routes": {
+    "0": {
+      "vehicle_id": 0,
+      "events": [
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 0,
+          "arrival_min": 0.0,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 64,
+          "node_idx": 0,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 64,
+          "node_idx": 9,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 13,
+          "node_idx": 14,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 67,
+          "node_idx": 33,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 13,
+          "node_idx": 26,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 67,
+          "node_idx": 9,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 6,
+          "node_idx": 0,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 32,
+          "node_idx": 31,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 32,
+          "node_idx": 24,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 6,
+          "node_idx": 77,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 0,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        }
+      ]
+    },
+    "1": {
+      "vehicle_id": 1,
+      "events": [
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 0,
+          "arrival_min": 0.0,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 77,
+          "node_idx": 60,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 82,
+          "node_idx": 64,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 82,
+          "node_idx": 5,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 77,
+          "node_idx": 111,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 62,
+          "node_idx": 1,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 90,
+          "node_idx": 1,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 17,
+          "node_idx": 18,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 90,
+          "node_idx": 52,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 0,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 62,
+          "node_idx": 31,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 17,
+          "node_idx": 81,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        }
+      ]
+    },
+    "2": {
+      "vehicle_id": 2,
+      "events": [
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 0,
+          "arrival_min": 0.0,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 94,
+          "node_idx": 5,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 23,
+          "node_idx": 21,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 94,
+          "node_idx": 31,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 23,
+          "node_idx": 85,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 70,
+          "node_idx": 39,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 42,
+          "node_idx": 39,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 42,
+          "node_idx": 98,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 70,
+          "node_idx": 108,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 83,
+          "node_idx": 65,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 83,
+          "node_idx": 115,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 0,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        }
+      ]
+    },
+    "3": {
+      "vehicle_id": 3,
+      "events": [
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 0,
+          "arrival_min": 0.0,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 89,
+          "node_idx": 68,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 89,
+          "node_idx": 119,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 71,
+          "node_idx": 56,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 71,
+          "node_idx": 41,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 53,
+          "node_idx": 47,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 0,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 53,
+          "node_idx": 68,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        }
+      ]
+    },
+    "4": {
+      "vehicle_id": 4,
+      "events": [
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 1,
+          "arrival_min": 0.0,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 29,
+          "node_idx": 29,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 29,
+          "node_idx": 90,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 48,
+          "node_idx": 42,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 9,
+          "node_idx": 10,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 9,
+          "node_idx": 78,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 48,
+          "node_idx": 102,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 1,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        }
+      ]
+    },
+    "5": {
+      "vehicle_id": 5,
+      "events": [
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 1,
+          "arrival_min": 0.0,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 47,
+          "node_idx": 41,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 4,
+          "node_idx": 0,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 31,
+          "node_idx": 0,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 58,
+          "node_idx": 51,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 58,
+          "node_idx": 78,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 47,
+          "node_idx": 19,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 31,
+          "node_idx": 92,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 4,
+          "node_idx": 70,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 1,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        }
+      ]
+    },
+    "6": {
+      "vehicle_id": 6,
+      "events": [
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 1,
+          "arrival_min": 0.0,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 50,
+          "node_idx": 44,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 60,
+          "node_idx": 52,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 60,
+          "node_idx": 46,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 50,
+          "node_idx": 21,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 63,
+          "node_idx": 11,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 2,
+          "node_idx": 5,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 63,
+          "node_idx": 0,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 2,
+          "node_idx": 75,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 1,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        }
+      ]
+    },
+    "7": {
+      "vehicle_id": 7,
+      "events": [
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 2,
+          "arrival_min": 0.0,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 36,
+          "node_idx": 34,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 36,
+          "node_idx": 21,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 96,
+          "node_idx": 64,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 20,
+          "node_idx": 21,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 26,
+          "node_idx": 26,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 26,
+          "node_idx": 88,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 20,
+          "node_idx": 82,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 96,
+          "node_idx": 120,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 2,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        }
+      ]
+    },
+    "8": {
+      "vehicle_id": 8,
+      "events": [
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 2,
+          "arrival_min": 0.0,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 88,
+          "node_idx": 15,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 88,
+          "node_idx": 118,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 14,
+          "node_idx": 15,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 14,
+          "node_idx": 79,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 74,
+          "node_idx": 58,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 74,
+          "node_idx": 2,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 2,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        }
+      ]
+    },
+    "9": {
+      "vehicle_id": 9,
+      "events": [
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 2,
+          "arrival_min": 0.0,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 34,
+          "node_idx": 33,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 34,
+          "node_idx": 2,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "garage",
+          "request_id": -1,
+          "node_idx": 2,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "pickup",
+          "request_id": 38,
+          "node_idx": 36,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        },
+        {
+          "kind": "dropoff",
+          "request_id": 38,
+          "node_idx": 95,
+          "arrival_min": null,
+          "wait_min": 0.0,
+          "load_after": null
+        }
+      ]
+    }
+  },
+  "served_requests": [
+    2,
+    4,
+    6,
+    9,
+    13,
+    14,
+    17,
+    20,
+    23,
+    26,
+    29,
+    31,
+    32,
+    34,
+    36,
+    38,
+    42,
+    47,
+    48,
+    50,
+    53,
+    58,
+    60,
+    62,
+    63,
+    64,
+    67,
+    70,
+    71,
+    74,
+    77,
+    82,
+    83,
+    88,
+    89,
+    90,
+    94,
+    96
+  ],
+  "unserved_requests": [
+    0,
+    1,
+    3,
+    5,
+    7,
+    8,
+    10,
+    11,
+    12,
+    15,
+    16,
+    18,
+    19,
+    21,
+    22,
+    24,
+    25,
+    27,
+    28,
+    30,
+    33,
+    35,
+    37,
+    39,
+    40,
+    41,
+    43,
+    44,
+    45,
+    46,
+    49,
+    51,
+    52,
+    54,
+    55,
+    56,
+    57,
+    59,
+    61,
+    65,
+    66,
+    68,
+    69,
+    72,
+    73,
+    75,
+    76,
+    78,
+    79,
+    80,
+    81,
+    84,
+    85,
+    86,
+    87,
+    91,
+    92,
+    93,
+    95,
+    97,
+    98,
+    99
+  ],
+  "time_total_min": 838.2700456358657,
+  "dist_total_km": 328.0,
+  "cost": 1240.937534547493,
+  "feasible": true,
+  "meta": {
+    "lambda": 0.5,
+    "strategy": "grasp+vnd",
+    "objective": {
+      "time_norm": 0.9237929928976095,
+      "dist_norm": 0.951276102088167,
+      "penalty": 1240.0,
+      "lambda": 0.5,
+      "cost": 1240.937534547493
+    }
+  },
+  "scenario": "scenario_5",
+  "seed": 5,
+  "run_id": "scenario_5__seed5__algograsp_vnd__alpha0.3__ms30__tl30__vnd1"
+}

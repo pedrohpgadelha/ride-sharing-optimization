@@ -1,0 +1,42 @@
+{
+  "scenario_1": {
+    "time_total_min": 484.32007667103716,
+    "dist_total_km": 184.4
+  },
+  "scenario_2": {
+    "time_total_min": 499.7661400490212,
+    "dist_total_km": 187.6
+  },
+  "scenario_3": {
+    "time_total_min": 568.8435825015588,
+    "dist_total_km": 228.0
+  },
+  "scenario_4": {
+    "time_total_min": 1014.9977738723261,
+    "dist_total_km": 398.8
+  },
+  "scenario_5": {
+    "time_total_min": 907.4219571708497,
+    "dist_total_km": 344.8
+  },
+  "scenario_6": {
+    "time_total_min": 1149.5960432748948,
+    "dist_total_km": 475.2
+  },
+  "scenario_7": {
+    "time_total_min": 854.0888845978607,
+    "dist_total_km": 338.4
+  },
+  "scenario_8": {
+    "time_total_min": 646.0710374940412,
+    "dist_total_km": 262.8
+  },
+  "scenario_9": {
+    "time_total_min": 1225.5776944721242,
+    "dist_total_km": 492.0
+  },
+  "scenario_10": {
+    "time_total_min": 1095.6528316451697,
+    "dist_total_km": 447.6
+  }
+}

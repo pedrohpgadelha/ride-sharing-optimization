@@ -1,0 +1,13 @@
+{
+  "run_id": "scenario_4__seed3__algobaseline",
+  "scenario": "scenario_4",
+  "seed": 3,
+  "algo": "baseline",
+  "served": 46,
+  "unserved": 54,
+  "wait_mean_min": 2.2746899011838844,
+  "ride_time_extra_mean_min": 2.502082204643763,
+  "time_total_min": 1035.6071640258872,
+  "dist_total_km": 418.0,
+  "cpu_time_sec": 3.4589593410491943
+}

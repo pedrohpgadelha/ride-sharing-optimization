@@ -1,0 +1,9 @@
+{
+  "created_at_utc": "2025-11-14T13:25:14+00:00",
+  "scenario": "scenario_6",
+  "seed": 3,
+  "counts": {
+    "n_requests": 100,
+    "n_vehicles": 10
+  }
+}

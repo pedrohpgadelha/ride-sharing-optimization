@@ -1,0 +1,37 @@
+scenarios:
+  - scenario_1.yaml
+  - scenario_2.yaml
+  - scenario_3.yaml
+  - scenario_4.yaml
+  - scenario_5.yaml
+  - scenario_6.yaml
+  - scenario_7.yaml
+  - scenario_8.yaml
+  - scenario_9.yaml
+  - scenario_10.yaml
+
+seeds: [1, 2, 3, 4, 5]
+
+objective:
+  lambda: 0.5
+  penalty_M: 20
+
+runtime:
+  grasp_time_limit_sec: 120
+  vnd_time_limit_sec: 30
+
+grasp:
+  alpha: 0.3
+  multistart: 30
+
+vnd:
+  enable: true
+  use_inter_route: true
+  neighborhoods_order:
+    - relocate_intra
+    - swap_intra
+    - relocate_inter
+
+output:
+  data_dir: data
+  overwrite: false

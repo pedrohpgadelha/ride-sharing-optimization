@@ -1,0 +1,16 @@
+{
+  "run_id": "scenario_1__seed2__algograsp__alpha0.3__ms30__tl120",
+  "scenario": "scenario_1",
+  "seed": 2,
+  "algo": "grasp",
+  "served": 23.0,
+  "unserved": 37.0,
+  "wait_mean_min": 3.35564441236686,
+  "ride_time_extra_mean_min": 4.53921600435721,
+  "time_total_min": 538.0941071987235,
+  "dist_total_km": 198.0,
+  "cost": 741.0923913272702,
+  "cpu_time_sec": 120.15071392059326,
+  "cpu_time_grasp_sec": 120.15071392059326,
+  "cpu_time_vnd_sec": 0.0
+}

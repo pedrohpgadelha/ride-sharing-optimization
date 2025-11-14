@@ -1,0 +1,41 @@
+name: scenario_6
+
+grid:
+  size: 21
+  step_km: 1.0
+  bounds_km: [0, 20, 0, 20]
+
+speeds:
+  inside_zone_kmph: 25
+  outside_zone_kmph: 35
+
+zones:
+  - id: C
+    center: [10, 10]
+    radius_km: 5
+  - id: U
+    center: [6, 14]
+    radius_km: 5
+  - id: S
+    center: [16, 6]
+    radius_km: 5
+
+vehicles:
+  n_vehicles: 10
+  capacity: 4
+  garages_by_zone:
+    C: 4
+    U: 3
+    S: 3
+
+requests:
+  n_requests: 100
+  policentric_weights:
+    C: 0.5
+    U: 0.3
+    S: 0.2
+  uniform_weight: 0.3
+  e_min_min: 10
+  e_max_min: 50
+  phi: 1.6
+  kappa_min: 15

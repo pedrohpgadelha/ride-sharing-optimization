@@ -1,0 +1,16 @@
+{
+  "run_id": "scenario_5__seed5__algograsp_vnd__alpha0.3__ms30__tl30__vnd1",
+  "scenario": "scenario_5",
+  "seed": 5,
+  "algo": "grasp_vnd",
+  "served": 38.0,
+  "unserved": 62.0,
+  "wait_mean_min": 2.0477079678611276,
+  "ride_time_extra_mean_min": 2.1274619715146854,
+  "time_total_min": 838.2700456358657,
+  "dist_total_km": 328.0,
+  "cost": 1240.937534547493,
+  "cpu_time_sec": 122.27223777770996,
+  "cpu_time_grasp_sec": 120.30668783187866,
+  "cpu_time_vnd_sec": 1.9655499458312988
+}
